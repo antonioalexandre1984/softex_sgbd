@@ -1,0 +1,9 @@
+Existem três pilares principais da segurança de dados que devem ser seguidos para garantir a proteção e integridade dos dados em um banco de dados:
+
+1- Confidencialidade: é a garantia de que apenas pessoas autorizadas têm acesso às informações do banco de dados. Para garantir a confidencialidade, é necessário adotar medidas como o controle de acesso baseado em funções, a criptografia de dados sensíveis e a implementação de políticas de segurança que estabeleçam regras claras sobre quem pode acessar quais informações.
+
+2- Integridade: é a garantia de que os dados são precisos, completos e consistentes. Para garantir a integridade dos dados, é necessário adotar medidas como restrições de integridade referencial, validações de dados, auditorias de dados e backups regulares.
+
+3- Disponibilidade: é a garantia de que os dados estão sempre disponíveis para serem acessados quando necessário. Para garantir a disponibilidade dos dados, é necessário adotar medidas como o uso de sistemas de redundância e backup, a implementação de políticas de recuperação de desastres e a realização de manutenção preventiva regular no banco de dados.
+
+Além desses pilares, é importante lembrar que a segurança de dados é um processo contínuo e deve ser constantemente revisada e atualizada para se adaptar às novas ameaças e vulnerabilidades. É importante também manter os usuários do banco de dados treinados e conscientes das práticas de segurança adequadas, além de monitorar continuamente o acesso ao banco de dados e adotar medidas proativas para detectar e prevenir possíveis ataques e violações de segurança.

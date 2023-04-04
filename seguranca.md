@@ -1,0 +1,7 @@
+Existem diversas técnicas e práticas que podem ser adotadas para melhorar a segurança das senhas dos funcionários de uma empresa. Abaixo, cito três métodos que podem ser utilizados:
+
+1 - Políticas de senha fortes: é importante que a empresa estabeleça políticas de senha fortes para orientar os funcionários a criarem senhas seguras. Essas políticas podem incluir o uso de senhas complexas, que misturem letras, números e caracteres especiais, bem como a definição de um tamanho mínimo para as senhas.
+
+2 - Autenticação de múltiplos fatores (MFA): a autenticação de múltiplos fatores é uma técnica que adiciona uma camada extra de segurança à autenticação de usuários. Além da senha, o usuário precisa fornecer uma segunda forma de autenticação, como um código enviado por SMS ou um token de segurança.
+
+3 - Treinamento e conscientização dos funcionários: muitos ataques cibernéticos têm origem em falhas humanas, como o uso de senhas fracas ou a divulgação de informações confidenciais. Por isso, é importante que a empresa invista em treinamentos e conscientização dos funcionários sobre práticas de segurança cibernética, como o uso de senhas seguras e a importância da proteção de informações confidenciais.
